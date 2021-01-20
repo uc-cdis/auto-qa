@@ -54,7 +54,7 @@ export default function () {
     derived_parent_subject_id: '5c41ec1d49',
     derived_topmed_subject_id: '2fb4aae615',
     '*studies': {
-      submitter_id: 'study_5057ec2ada',
+      submitter_id: 'study_6f4e831a5e',
     },
     '*consent_codes': [],
     project_id: `${program}-${project}`,
