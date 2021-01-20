@@ -47,6 +47,8 @@ export default function () {
       Authorization: `Bearer ${ACCESS_TOKEN}`,
     },
   };
+
+  // That hardcoded study id MUST reference an existing study, otherwise the test will fail
   const body = {
     id: uuidv4(),
     eligibility: false,
